@@ -1,0 +1,5 @@
+BBDD	6
+SSII	7
+PROG	6
+EED	7
+LM	6
